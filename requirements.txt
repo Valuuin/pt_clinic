@@ -3,6 +3,5 @@ gunicorn==19.4.5
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
-unity-lens-photos==1.0
 virtualenv==15.0.1
 Werkzeug==0.11.9
